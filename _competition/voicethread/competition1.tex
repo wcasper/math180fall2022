@@ -1,0 +1,299 @@
+% !TEX TS-program = pdflatex
+% !TEX encoding = UTF-8 Unicode
+
+% This file is a template using the "beamer" package to create slides for a talk or presentation
+% - Giving a talk on some subject.
+% - The talk is between 15min and 45min long.
+% - Style is ornate.
+
+% MODIFIED by Jonathan Kew, 2008-07-06
+% The header comments and encoding in this file were modified for inclusion with TeXworks.
+% The content is otherwise unchanged from the original distributed with the beamer package.
+
+\documentclass[handout]{beamer}
+\usepackage{pgfpages}
+%\pgfpagesuselayout{4 on 1}[a4paper,border shrink=5mm]
+
+% Copyright 2004 by Till Tantau <tantau@users.sourceforge.net>.
+%
+% In principle, this file can be redistributed and/or modified under
+% the terms of the GNU Public License, version 2.
+%
+% However, this file is supposed to be a template to be modified
+% for your own needs. For this reason, if you use this file as a
+% template and not specifically distribute it as part of a another
+% package/program, I grant the extra permission to freely copy and
+% modify this file as you see fit and even to delete this copyright
+% notice. 
+
+
+\mode<presentation>
+{
+  \usetheme{Warsaw}
+  % or ...
+
+  \setbeamercovered{transparent}
+  % or whatever (possibly just delete it)
+}
+
+
+\usepackage[english]{babel}
+% or whatever
+
+\usepackage[utf8]{inputenc}
+% or whatever
+
+\usepackage{times}
+\usepackage[T1]{fontenc}
+% Or whatever. Note that the encoding and the font should match. If T1
+% does not look nice, try deleting the line with the fontenc.
+
+%%% MATH RELATED
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{mathrsfs}  
+\usepackage[all]{xy}
+\newcommand{\bbc}{\mathbb{C}}
+\newcommand{\bbr}{\mathbb{R}}
+\newcommand{\bbn}{\mathbb{N}}
+\newcommand{\M}{\mathscr{M}}
+\renewcommand{\L}{\mathcal{L}}
+\newcommand{\vocab}[1]{\textbf{#1}}
+\newcommand{\Bis}{\text{Bis}}
+\newcommand{\spec}{\text{spec}}
+\newcommand{\ol}[1]{\overline{#1}}
+\newcommand{\wt}[1]{\widetilde{#1}}
+\newcommand{\Ad}{\textnormal{Ad}}
+
+\theoremstyle{definition}
+\newtheorem{defn}{Definition}
+\newtheorem{quest}{Question}
+\newtheorem{prob}{Problem}
+\newtheorem{obs}{Observation}
+\newtheorem{ex}{Example}
+\newtheorem{notation}{Notation}
+\newtheorem{thm}{Theorem}
+\newtheorem{prop}{Proposition}
+\newtheorem{cor}{Corollary}
+
+\title{Math Competition Questions 1}
+
+\subtitle
+{Math 180 Strategies of Problem Solving}
+
+\author[W.R. Casper] % (optional, use only with lots of authors)
+{}%{W.R. Casper}
+% - Use the \inst{?} command only if the authors have different
+%   affiliation.
+
+\institute[California State University Fullerton] % (optional, but mostly needed)
+{
+  Department of Mathematics\\
+  California State University Fullerton}
+% - Use the \inst command only if there are several affiliations.
+% - Keep it simple, no one is interested in your street address.
+
+\subject{Talks}
+% This is only inserted into the PDF information catalog. Can be left
+% out. 
+
+
+
+% If you have a file called "university-logo-filename.xxx", where xxx
+% is a graphic format that can be processed by latex or pdflatex,
+% resp., then you can add a logo as follows:
+
+% \pgfdeclareimage[height=0.5cm]{university-logo}{university-logo-filename}
+% \logo{\pgfuseimage{university-logo}}
+
+
+
+% Delete this, if you do not want the table of contents to pop up at
+% the beginning of each subsection:
+\AtBeginSubsection[]
+{
+  \begin{frame}<beamer>{Outline}
+    \tableofcontents[currentsection,currentsubsection]
+  \end{frame}
+}
+
+
+% If you wish to uncover everything in a step-wise fashion, uncomment
+% the following command: 
+
+%\beamerdefaultoverlayspecification{<+->}
+
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+%\begin{frame}{Outline}
+%  \tableofcontents
+%  % You might wish to add the option [pausesections]
+%\end{frame}
+
+
+% Since this a solution template for a generic talk, very little can
+% be said about how it should be structured. However, the talk length
+% of between 15min and 45min and the theme suggest that you stick to
+% the following rules:  
+
+% - Exactly two or three sections (other than the summary).
+% - At *most* three subsections per section.
+% - Talk about 30s to 2min per frame. So there should be between about
+%   15 and 30 frames, all told.
+
+\section{Problem List}
+\begin{frame}{Question 1}
+\begin{quest}
+Which of the following values is largest?
+\begin{enumerate}[(a)]
+\item $2\times 0  + 1 + 7$
+\item $2 + 0 + 1 + 7$
+\item $2\times 0\times 1\times 7$
+\item $2+0\times1+7$
+\item $2+0+1\times 7$
+\end{enumerate}
+\end{quest}
+\end{frame}
+
+\begin{frame}{Question 2}
+\begin{quest}
+What is the value of the expression $\sqrt{16\sqrt{8\sqrt{4}}}$?
+\begin{enumerate}[(a)]
+\item $8$
+\item $4\sqrt{2}$
+\item $4$
+\item $16$
+\item $8\sqrt{2}$
+\end{enumerate}
+\end{quest}
+\end{frame}
+
+\begin{frame}{Question 3}
+\begin{quest}
+What is the value of the expression
+$$\frac{1\cdot 2\cdot 3\cdot 4\cdot 5\cdot6\cdot7\cdot8}{1+2+3+4+5+6+7+8}?$$
+\begin{enumerate}[(a)]
+\item $1220$
+\item $2240$
+\item $1020$
+\item $1120$
+\item $3360$
+\end{enumerate}
+\end{quest}
+
+\end{frame}
+
+\begin{frame}{Question 4}
+\begin{quest}
+Let $Z$ be a $6$-digit positive integer, such as $247247$, whose first three digits are the same as the last three digits taken in the same order.
+Which of the following numbers must also be a factor of $Z$?
+\begin{enumerate}[(a)]
+\item $111$
+\item $19$
+\item $101$
+\item $11$
+\item $1111$
+\end{enumerate}
+\end{quest}
+
+\end{frame}
+
+\begin{frame}{Question 5}
+\begin{quest}
+All of Marcy's marbles are blue, red, green, or yellow.
+One third of her marbles are blue, one fourth of them are red, and six of them are green.
+What is the smallest number of yellow marbles that Marcy could have?
+\begin{enumerate}[a]
+\item $5$
+\item $3$
+\item $2$
+\item $1$
+\item $4$
+\end{enumerate}
+\end{quest}
+
+\end{frame}
+
+\begin{frame}{Question 6}
+\begin{quest}
+A square-shaped floor is covered with congruent square tiles.
+If the total number of tiles that lie on the two diagonals is $37$, how many tiles cover the floor?
+\begin{enumerate}[a]
+\item $361$
+\item $148$
+\item $1296$
+\item $324$
+\item $1369$
+\end{enumerate}
+\end{quest}
+
+\end{frame}
+
+\begin{frame}{Question 7}
+\begin{quest}
+Peter, Emma, and Kyler played chess with each other.
+Peter won $4$ games and lost two games.
+Emma won $3$ games and lost $3$ games.
+If Kyler lost $3$ games, how many games did he win?
+\begin{enumerate}[a]
+\item $2$
+\item $3$
+\item $0$
+\item $4$
+\item $1$
+\end{enumerate}
+\end{quest}
+
+\end{frame}
+
+\begin{frame}{Question 8}
+Starting with some gold coins and some empty treasure chests, I tried to put $9$ gold coins in each treasure chest, but that left $2$ treasure chests empty.
+So instead I put $6$ gold coins in each treasure chest, but then I had $3$ gold coins left over.  How many gold coins did I have?
+\begin{quest}
+\begin{enumerate}[a]
+\item $81$
+\item $63$
+\item $45$
+\item $27$
+\item $9$
+\end{enumerate}
+\end{quest}
+
+\end{frame}
+
+\begin{frame}{Question 9}
+\begin{quest}
+For any positive integer $M$, the notation $M!$ denotes the product of the integers $1$ through $M$.  What is the largest integer $n$ for which $5^n$ is a factor of the sum $98! + 99! + 100!$ ?
+\begin{enumerate}[a]
+\item $23$
+\item $26$
+\item $25$
+\item $27$
+\item $24$
+\end{enumerate}
+\end{quest}
+
+\end{frame}
+
+\begin{frame}{Question 10}
+\begin{quest}
+Suppose $a,b,$ and $c$ are nonzero real numbers such that $a+b+c=0$.
+What are the possible values for
+$$\frac{a}{|a|} + \frac{b}{|b|} + \frac{c}{|c|} + \frac{abc}{|abc|}?$$
+\begin{enumerate}[a]
+\item $2$ and $-2$
+\item $0,1,$ and $-1$
+\item $1$ and $-1$
+\item $0,2,$ and $-2$
+\item $0$
+\end{enumerate}
+\end{quest}
+
+\end{frame}
+\end{document}
+
+

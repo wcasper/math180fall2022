@@ -1,0 +1,196 @@
+%Problems from AMC 8 (2014), 1-- 19 (odd)
+%Solutions A, B, C, B, D, A, D, C, B, A
+\documentclass[12pt]{exam}
+\usepackage[left=1cm, right=1cm, top=1cm, bottom=1cm]{geometry}
+\usepackage{%
+	amsmath,
+	tikz,
+	tkz-euclide,
+}
+\usetkzobj{all}
+
+\renewcommand{\thechoice	}{\Alph{choice}}
+\renewcommand{\choicelabel}{\textbf{(\thechoice)}}
+
+\begin{document}
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering
+Write the letter of your answer in the space provided beneath the answers. You do not have to show your work. You have 20 minutes to finish.}}}
+
+\end{center}
+\vspace{24pt}
+\noindent \makebox[\textwidth]{Name:\enspace\hrulefill}
+\vspace{24pt}
+
+\noindent \makebox[\textwidth]{Section:\enspace\hrulefill}
+
+\begin{questions}
+\question 
+Harry and Terry are each told to calculate $8-(2+5)$. Harry gets the correct answer. Terry ignores the parentheses and calculates $8-2+5$. If Harry's answer is $H$ and Terry's answer is $T$, what is $H-T$?
+
+\begin{oneparchoices}
+\choice $-10$
+\choice  $-6$
+\choice 0
+\choice 6
+\choice 10
+\end{oneparchoices}
+\answerline
+
+\question 
+Isabella had a week to read a book for a school assignment. She read an average of 36 pages per day for the first three days and an average of 44 pages per day for the next three days. She then finished the book by reading 10 pages on the last day. How many pages were in the book?
+
+\begin{oneparchoices}
+\choice 240
+\choice 250
+\choice 260
+\choice 270
+\choice 280
+\end{oneparchoices}
+\answerline
+
+\question 
+Margie's car can go 32 miles on a gallon of gas, and gas currently costs \$4 per gallon. How many miles can Margie drive on \$20?
+
+\begin{oneparchoices}
+\choice 64
+\choice 128
+\choice 160
+\choice 320
+\choice 640
+\end{oneparchoices}
+\answerline
+
+\question 
+There are four more girls than boys in Ms. Raub's class of 28 students. What is the ratio of number of girls to the number of boys in her class?
+
+\begin{oneparchoices}
+\choice $3 \colon 4$	
+\choice $4 \colon 3$
+\choice $3 \colon 2$
+\choice $7 \colon 4$
+\choice $2 \colon 1$
+\end{oneparchoices}
+\answerline
+
+\question 
+In $\bigtriangleup ABC$, $D$ is a point on side $\overline{AC}$ such that $BD=DC$ and $\angle BCD$ measures $70^\circ$. What is the degree measure of $\angle ADB$?
+
+\begin{center}
+\begin{tikzpicture}
+\tkzDefPoint(-1,0){A}
+\tkzDefPoint(8,0){C}
+\tkzDefShiftPointCoord[8,0](110:5){B}
+\tkzDefShiftPointCoord[B](250:5){D}
+\tkzDrawSegments(A,B A,C B,C B,D)
+\tkzDrawPoints(A,B,C,D)
+\tkzLabelPoints(C)
+\tkzLabelPoint[below left](A){$A$}
+\tkzLabelPoint[right](B){$B$}
+\tkzLabelPoint[below](D){$D$}
+\tkzLabelAngle[pos=0.7](B,C,D){$70^{\circ}$}
+\end{tikzpicture}
+\end{center}
+
+\begin{oneparchoices}
+\choice 100	
+\choice 120
+\choice 135
+\choice 140
+\choice 150
+\end{oneparchoices}
+\answerline
+
+\newpage	
+
+\question 
+Jack wants to bike from his house to Jill's house, which is located three blocks east and two blocks north of Jack's house. After biking each block, Jack can continue either east or north, but he needs to avoid a dangerous intersection one block east and one block north of his house. In how many ways can he reach Jill's house by biking a total of five blocks?
+
+\begin{oneparchoices}
+\choice 4
+\choice 5
+\choice 6
+\choice 8 
+\choice 10
+\end{oneparchoices}
+\answerline
+
+\question 
+If $n$ and $m$ are integers and $n^2+m^2$ is even, which of the following is impossible?
+
+\begin{oneparchoices}
+\choice $n$ and $m$ are even
+\choice $n$ and $m$ are odd
+\choice $n + m$ is even
+\choice $n + m$ is odd
+\choice none of these are impossible
+\end{oneparchoices}
+\answerline
+
+\question 
+The circumference of the circle with center $O$ is divided into 12 equal arcs, marked the letters $A$ through $L$ as seen below. What is the number of degrees in the sum of the angles $x$ and $y$?
+
+\begin{center}
+\begin{tikzpicture}
+\tkzDefPoint(0,0){O}
+\tkzDefPoint(3,0){E}
+\foreach \i in {1,...,11}
+	{
+	\tkzDefPointBy[rotation = center O angle 30*\i](E) \tkzGetPoint{a\i}
+	\tkzDrawPoint(a\i)
+	}
+\tkzDrawCircle(O,E)
+\tkzDrawSegments(O,a4 O,E a4,E O,a8 a8,a10 a10,O)
+\tkzLabelAngle[pos=1](E,a4,O){$x$}
+\tkzLabelAngle[pos=0.7](O,a10,a8){$y$}
+\tkzDrawPoints(O,E)
+\tkzLabelPoint[left](O){$O$}
+\tkzLabelPoint[right](E){$E$}
+\tkzLabelPoint[above right](a1){$D$}
+\tkzLabelPoint[above right](a2){$C$}
+\tkzLabelPoint[above](a3){$B$}
+\tkzLabelPoint[above left](a4){$A$}
+\tkzLabelPoint[above left](a5){$L$}
+\tkzLabelPoint[left](a6){$K$}
+\tkzLabelPoint[below left](a7){$J$}
+\tkzLabelPoint[below left](a8){$I$}
+\tkzLabelPoint[below](a9){$H$}
+\tkzLabelPoint(a10){$G$}
+\tkzLabelPoint(a11){$F$}
+\end{tikzpicture}
+\end{center}
+
+\begin{oneparchoices}
+\choice 75
+\choice 80
+\choice 90
+\choice 120
+\choice 150
+\end{oneparchoices}
+\answerline
+
+\question 
+George walks $1$ mile to school. He leaves home at the same time each day, walks at a steady speed of $3$ miles per hour, and arrives just as school begins. Today he was distracted by the pleasant weather and walked the first $\frac{1}{2}$ mile at a speed of only $2$ miles per hour. At how many miles per hour must George run the last $\frac{1}{2}$ mile in order to arrive just as school begins today?
+
+\begin{oneparchoices}
+\choice	4
+\choice 6
+\choice 8
+\choice 10
+\choice 12
+\end{oneparchoices}
+\answerline
+
+\question 
+A cube with 3-inch edges is to be constructed from 27 smaller cubes with 1-inch edges. Twenty-one of the cubes are colored red and 6 are colored white. If the 3-inch cube is constructed to have the smallest possible white surface area showing, what fraction of the surface area is white?
+
+\begin{oneparchoices}
+\choice	$\dfrac{5}{54}$
+\choice $\dfrac{1}{9}$
+\choice $\dfrac{5}{27}$
+\choice $\dfrac{2}{9}$
+\choice $\dfrac{1}{3}$
+\end{oneparchoices}
+\answerline
+\end{questions}
+\end{document}
