@@ -24,6 +24,7 @@ The simulator below allows you to test the performance of a static firing algori
 * Then click <button class="button-85">Simulate</button> to generate a random Battleship fleet and calculate how many shots your algorithm takes to sink it.
 * You can click <button class="button-85">Simulate</button> several times with the same firing algorithm to get an average performance over a sample of several random fleets.
 
+### Battleship simulator
 
 <body>
 
