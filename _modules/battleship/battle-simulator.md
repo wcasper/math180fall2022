@@ -5,6 +5,11 @@ permalink: /modules/battleship/battleship-simulator
 ---
 
 
+<head>
+<meta charset='utf-8'>
+<link rel="stylesheet" href="battle-simulator.css">
+</head>
+
 
 ### Static firing algorithms
 
@@ -12,15 +17,10 @@ The most basic kind of Battleship firing algorithm you can make is a **static fi
 
 The simulator below allows you to test the performance of a static firing algorithm.  
 * Click the squares in the first box in the firing order that you wish to specify.
-* Use the *undo button* if you need to change the order of the sequence or the *clear button* to start over completely.
+* Use <button class="button-85">Undo</button> if you need to change the order of the sequence or <button class="button-85">Clear</button> to start over completely.
 * It is not necessary to select all squares.  Any squares not specified in the order will be chosen in a random order as necessary at the end.
-* Then click the *simulate button* to generate a random Battleship fleet and calculate how many shots your algorithm takes to sink it.
-* You can click the *simulation button* several times with the same firing algorithm to get an average performance over a sample of several random fleets.
-
-<head>
-<meta charset='utf-8'>
-<link rel="stylesheet" href="battle-simulator.css">
-</head>
+* Then click <button class="button-85">Simulate</button> to generate a random Battleship fleet and calculate how many shots your algorithm takes to sink it.
+* You can click <button class="button-85">Simulate</button> several times with the same firing algorithm to get an average performance over a sample of several random fleets.
 
 
 <body>
