@@ -83,6 +83,8 @@ function undoFiringOrder() {
       break;
     };
   };
+  stat_num = 0;
+  stat_sum = 0;
 }
 
 function clearFiringOrder() {
