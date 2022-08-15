@@ -1,9 +1,9 @@
 .cell {
   border: 1px solid gray;
-  min-width: 30px;
-  min-height: 30px;
+  min-width: 50px;
+  min-height: 50px;
   display: inline-block;
-  margin-right: 3px;
+  margin-right: 5px;
 }
 
 
