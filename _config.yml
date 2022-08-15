@@ -71,6 +71,6 @@ collections:
   exams:
     output: true
   modules:
-    output: true
+    output: false
 
 
