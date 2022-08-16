@@ -21,7 +21,7 @@ The rules are identical, except it is played on an $$m\times n$$ grid rather tha
 You play with the normal rules of Tic-tac-toe, except that on your turn you can decide to play either an X or an O.
 The player that wins is the first one to complete three-in-a-row with any symbol.
 
-### Mis$$\text{\'{e}}$$re Tic-tac-toe
+### Misere Tic-tac-toe
 In this variant, the player wins if their *opponent* gets three-in-a-row.
 
 ### 3-dimensional Tic-tac-toe
