@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tic-tac-toe Discussion
-permalink: /modules/tic-tac-toe/discussion
+title: Tic-tac-toe Rules and Loopholes
+permalink: /modules/tic-tac-toe/loopholes
 ---
 
 ## Loopholes
