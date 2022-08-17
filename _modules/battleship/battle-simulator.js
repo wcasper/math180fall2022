@@ -285,9 +285,9 @@ function simulateBattle() {
 }
 
 function simulate100Battles() {
-  for(i=0; i < 100; i++) {
+  for(ii=0; ii < 100; ii++) {
     simulateBattle();
-  }
+  };
 }
 
 
