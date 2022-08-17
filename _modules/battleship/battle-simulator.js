@@ -162,6 +162,8 @@ function sinkShip(x,y) {
   const dy = [0,1,0,-1];
 
   let shot_cnt = 0;
+  let iter_max = 1000;
+  let iter = 0;
 
   let flavor = cells[nx*ny + nx*y + x].innerHTML;
 
@@ -197,8 +199,13 @@ function sinkShip(x,y) {
     };
 
     sunk = shipIsSunk(flavor);
+    iter ++;
     if(sunk) break;
   };
+    if(iter > iter_max) {
+      alert("max iterations exceeded");
+      break;
+    };
   };
 
   return shot_cnt;
