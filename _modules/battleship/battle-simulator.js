@@ -1,6 +1,7 @@
 const btn1 = document.getElementById('undo');
 const btn2 = document.getElementById('clear');
 const btn3 = document.getElementById('simulate');
+const btn4 = document.getElementById('simulate100');
 const stat = document.getElementById('statistics');
 
 const rainbow = ['red','orange','yellow','green','blue','rebeccapurple','violet'];
@@ -11,6 +12,7 @@ document.body.style.background = rainbow[Math.floor(7*Math.random())];
 btn1.addEventListener('click', undoFiringOrder);
 btn2.addEventListener('click', clearFiringOrder);
 btn3.addEventListener('click', simulateBattle);
+btn4.addEventListener('click', simulate100Battles);
 
 
 //Sets important constants and variables
@@ -280,6 +282,14 @@ function simulateBattle() {
   generateRandomFleet();
   shot_cnt = sinkFleet();
   updateStatistics(shot_cnt);
+}
+
+function simulate100Battles() {
+  for(i=0; i < 100; i++) {
+    generateRandomFleet();
+    shot_cnt = sinkFleet();
+    updateStatistics(shot_cnt);
+  }
 }
 
 

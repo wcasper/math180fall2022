@@ -44,6 +44,11 @@ The simulator below allows you to test the performance of a static firing algori
 
 <br/>
 <center>
+<button id='simulate100' class="button-85" role="button">Simulate 100!</button>
+</center>
+
+<br/>
+<center>
 <h3>Simulated Fleet</h3>
 <div id="battleship-fleet">
 </div>
