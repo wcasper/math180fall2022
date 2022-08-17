@@ -286,9 +286,7 @@ function simulateBattle() {
 
 function simulate100Battles() {
   for(i=0; i < 100; i++) {
-    generateRandomFleet();
-    shot_cnt = sinkFleet();
-    updateStatistics(shot_cnt);
+    simulateBattle();
   }
 }
 
