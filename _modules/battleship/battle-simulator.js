@@ -65,7 +65,7 @@ function main() {
 }
 
 
-let _nshots = 0;
+let _nshots = 1;
 let stat_sum = 0;
 let stat_num = 0;
 
