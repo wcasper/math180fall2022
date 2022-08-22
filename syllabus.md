@@ -63,7 +63,7 @@ ___
 * Homework: 25%
 * Pre-class assignments: 15%
 * In-class assignments: 25%
-* Seminars / poster session: 15%
+* Seminars / research: 15%
 * Final Exam: 20%
 
 ### Grading scale (tentative)
@@ -114,6 +114,16 @@ Three possible ways of accomplishing this (in order of preference) are
 * typing your solution in LaTeX on Overleaf and then compiling and downloading the resultant pdf.
 * writing your solution and using a scanner or smartphone to scan it as a PDF document and upload it
 * using some other word processor such as Microsoft Word to create the document and then export it as a PDF
+
+**Seminars:**
+As part of this class, you will be expected to attend at least three seminars within the department throughout the semester and create a discussion post about what you learned, and more importantly, what questions it made you ask.  Examples of department seminars include
+* Problem Solving Seminar: this seminar is about solving math puzzles and other contest problems, and preparing for a legendary math competition called the Putnam Exam
+* Algebra/Geometry/Topology Seminar: this seminar focuses on current research in algebra, geometry, and topology by working mathematicians
+* Analysis Seminar: this seminar focuses on current research in analysis by working mathematicians
+* Applied Mathematics Seminar: this seminar focuses on current research in applied mathematics by working mathematicians
+
+**Research:**
+As part of this class, you will be responsible for conducting and presenting a **research project** where you try to answer some question that nobody knows the answer to yet.  It can be inspired by a project we do in class, or by some of your interests outside of class.  This project will culminate in the creation of a research poster that you will use to present your work in a class-wide poster session.
 
 ___
 
