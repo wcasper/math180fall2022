@@ -60,9 +60,10 @@ ___
 ## Grading
 ### Grading scheme
 
-* Homework: 30%
-* Pre-class assignments: 20%
-* In-class assignments: 30%
+* Homework: 25%
+* Pre-class assignments: 15%
+* In-class assignments: 25%
+* Seminars / poster session: 15%
 * Final Exam: 20%
 
 ### Grading scale (tentative)
