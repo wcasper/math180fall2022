@@ -116,11 +116,15 @@ Three possible ways of accomplishing this (in order of preference) are
 * using some other word processor such as Microsoft Word to create the document and then export it as a PDF
 
 **Seminars:**
-As part of this class, you will be expected to attend at least three seminars within the department throughout the semester and create a discussion post about what you learned, and more importantly, what questions it made you ask.  Examples of department seminars include
+As part of this class, you will be expected to attend a seminars within the department at least three times throughout the semester and create a discussion post about what you learned, and more importantly, what questions it made you ask.  Examples of department seminars include
 * Problem Solving Seminar: this seminar is about solving math puzzles and other contest problems, and preparing for a legendary math competition called the Putnam Exam
 * Algebra/Geometry/Topology Seminar: this seminar focuses on current research in algebra, geometry, and topology by working mathematicians
 * Analysis Seminar: this seminar focuses on current research in analysis by working mathematicians
 * Applied Mathematics Seminar: this seminar focuses on current research in applied mathematics by working mathematicians
+
+Note that going above and beyond in this requirement constitutes an opportunity for **extra credit**!  (Examples include attending more than the required seminars, presenting in a seminar, engaging in other extra-curricular mathy activities, etc).
+Also, if you are unable to attend any seminar at least three times due to scheduling issues, you may request accommodation in the form of supplementary activities like writing a report on an interesting math topic.
+This request should happen as early as possible and requests occuring in the last few weeks of class which appear to be about procrastination will be viewed disfavorably.
 
 **Research:**
 As part of this class, you will be responsible for conducting and presenting a **research project** where you try to answer some question that nobody knows the answer to yet.  It can be inspired by a project we do in class, or by some of your interests outside of class.  This project will culminate in the creation of a research poster that you will use to present your work in a class-wide poster session.
