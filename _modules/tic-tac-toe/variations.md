@@ -40,6 +40,6 @@ This game works for three to six people. When you draw a tic-tac-toe board for a
 
 ### Tic-tac-tetris
 
-This version is played on a $$5\times 5$$ grid and the goal is to get a Tetris shape.
+This version is played on a $$5\times 5$$ grid and the goal is to get a Tetris shape.  Placement must be started on the bottom of the grid and you can only place other places by "stacking", just like in normal Tetris.
 
 
