@@ -27,12 +27,11 @@ In the **Game of Fifteen**, two players take turns choosing numbers according to
 
 ### Instructions
 
-1. In your group's Zoom breakout room, one person should 'share screen' selecting "Whiteboard" and check that the others can "Annotate" on that whiteboard.
-2. Pick two people to play Game of $$15$$.
-3. After the game, cycle through who plays the next game (e.g., winner plays a new challenger, new people play each time).
-4. Continue cycling play for about $$10$$ minutes. Everyone should have an opportunity to play.
-5. Determine who is the  Champion Game of $$15$$ player in your group.
-6. After about $$10$$ minutes, discuss strategy for the game, and anything interesting that you've noticed about the Game of $$15$$.
+1. Pick two people to play Game of $$15$$.
+2. After the game, cycle through who plays the next game (e.g., winner plays a new challenger, new people play each time).
+3. Continue cycling play for about $$10$$ minutes. Everyone should have an opportunity to play.
+4. Determine who is the  Champion Game of $$15$$ player in your group.
+5. After about $$10$$ minutes, discuss strategy for the game, and anything interesting that you've noticed about the Game of $$15$$.
 Discuss for about $$5$$ minutes, and be prepared to share some thoughts or ideas with the class.
 
 
