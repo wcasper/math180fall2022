@@ -32,7 +32,7 @@ Each turn a player can mark as many spaces as they want, as long as they all bel
 The objective is no longer to get three-in-a-row.  Instead, the player who wins is whoever fills in the final space in the board.
 
 ### Tic-Tac-Toe for a Crowd
-This game works for three to six people. When you draw a tic-tac-toe board for a standard game, you draw two lines vertically and two lines horizontally to create a board with nine squares. For this game, you need a giant tic-tac-toe board that you draw with $$10$$ or so lines both vertically and horizontally. The exact number of lines you draw isn't important, just so the game board is BIG. Then each player chooses a different letter or symbol. The idea is the same as tic-tac-toe,Â exceptÂ that instead of winning with three in a row, the winner has to get four in a row, horizontally, vertically, or on a diagonal.
+This game works for three to six people. When you draw a tic-tac-toe board for a standard game, you draw two lines vertically and two lines horizontally to create a board with nine squares. For this game, you need a giant tic-tac-toe board that you draw with $$10$$ or so lines both vertically and horizontally. The exact number of lines you draw isn't important, just so the game board is BIG. Then each player chooses a different letter or symbol. The idea is the same as tic-tac-toe, except that instead of winning with three in a row, the winner has to get four in a row, horizontally, vertically, or on a diagonal.
 
 ### Ultimate Tic-Tac-Toe
 
