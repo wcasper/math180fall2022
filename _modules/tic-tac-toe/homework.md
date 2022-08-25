@@ -19,7 +19,7 @@ $$
 * **Part A** Show that each row, each column and each diagonal of the above grid adds up to $$15$$.
 Squares with this property are called **magic squares**.
 * **Part B** List (up to reordering) all the possible triples $$(a,b,c)$$ of integers between $$1$$ and $$9$$ which don't repeat digits and which sum up to $$15$$.  Show that each occurs as either a row, column, or diagonal in the matrix above.
-* **Part C** Use the results of Problem 1 and Problem 2 to explain why the Game of Fifteen is the same as Tic-tac-toe.
+* **Part C** Use the results of Part A and Part B to explain why the Game of Fifteen is the same as Tic-tac-toe.
 
 ### Problem 2
 Consider the table below, which is an example of a $$4\times 4$$ magic square.
