@@ -7,7 +7,7 @@ permalink: /modules/tic-tac-toe/game-of-fifteen
 ### Rules
 In the **Game of Fifteen**, two players take turns choosing numbers according to the following rules.
 
-1. Each player takes turns choosing a number greater than $$0$$ and less than $$10$$.
+1. Each player takes turns choosing a whole number greater than $$0$$ and less than $$10$$.
 2. Once a number has been chosen, it cannot be chosen again.
 3. The first player to collect three numbers that add up to $$15$$ wins.
 4. If all the numbers have been chosen and no player has won, then the game is a draw.
