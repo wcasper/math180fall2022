@@ -4,6 +4,8 @@ title: Algebraify
 permalink: /modules/strategies/strat-algebraify
 ---
 
+<p align="center"><img src="fig/letters-in-math.jpg" width="50%"/></p>
+
 In many problems we can make great progress by encoding the problem as an algebraic equation or system of algebraic equations.
 
 ## Example 1
