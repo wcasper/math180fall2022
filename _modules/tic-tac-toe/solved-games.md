@@ -35,5 +35,5 @@ Discuss in careful detail what the perfect strategy is for the first player (*P1
 * Where *P2* should play in response to every possible third move by *P2* 
 * ... and so on
 
-Record your strategy in the google document for your particular group below.
+Write down your strategy and then scan and upload it to Canvas.
 
