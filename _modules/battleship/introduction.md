@@ -14,16 +14,16 @@ In Battleship, opposing players secretly arrange their ships on a  grid.  Then 
 
 ### Rules
 
-I know, I know, it's been a while!  Or maybe you've never played Battleship before, in which case you're in for a treat!  Take a moment to review the Basic Rules of Battleship (external link).
+I know, I know, it's been a while!  Or maybe you've never played Battleship before, in which case you're in for a treat!  Take a moment to review the basic rules of Battleship.
 
-### Playing Online
+* Each player should draw two $$10\times 10$$ grids.  Label the rows with the letters A-J and the columns 1-10, as pictured below.
 
-We will be playing Battleship in pairs online using the website [BoomBoomBoat.com](http://BoomBoomBoat.com).  There you can play vs the computer, challenge a random stranger online, or face off against a friend in a private match.  Even better, you **do not need to register** in order to use the site!
+<p align="center"><img src="fig/board.jpg" width="50%"/></p>
 
-To play with a friend:
+* Next, each player should secretly fill in a $$5\times 1$$ with C's for a carrier, a $$4\times 1$$ with b's battleship, a $$3\times 1$$ with s's for submarine, a $$3\times 1$$ with c's for cruiser, and a $$2\times 1$$ with d's for destroyer.  Don't show your partner!
+* Next, each player takes turns being the attacking and defending player, respectively.  The attacking player guessing spaces by specifying a particular letter/number combination.  Their opponent must respond with whether the guess is a 'hit' (if there is a ship on the space) or a 'miss' if there is not a ship on the space.
+* The attacking player then records the result with an H or an M on their second grid to record the result.  Likewise, the defending player should mark the board containing their ships to indicate where the shots have been fired.
+* If the attacking player manages to cover up all spaces for any particular ship, the ship is considered 'sunk' and the defender must say that a ship has been sunk.
+* The first player to sink all of their opponents ships wins.
 
-* Click the button **Play with a friend**.
-* Copy the link in the address bar and send it to a friend.  If you are on Zoom you can do this through the chat feature.
-* Place your ships on the grid (or select the **Place randomly** button).
-* Click the **Ready** button.
 
