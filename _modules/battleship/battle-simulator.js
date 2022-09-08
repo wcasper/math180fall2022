@@ -94,7 +94,7 @@ function clearFiringOrder() {
     cells[i].innerHTML = '-';
     cells[i].style.background = waterColor;
   };
-  _nshots = 0;
+  _nshots = 1;
   stat_num = 0;
   stat_sum = 0;
 }
