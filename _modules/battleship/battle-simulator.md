@@ -15,7 +15,14 @@ permalink: /modules/battleship/battleship-simulator
 
 The most basic kind of Battleship firing algorithm you can make is a **static firing algorithm**, one where the locations and the order of the shots you want to make is specified entirely at the beginning.  In other words, at the start you enumerate the entries in the board in the order you want to shoot them.  Whenever you get a hit, you proceed with a typical sinking procedure to finish off the ship, before continuing where you left off with your previous series.
 
-Contrast this kind of firing algorithm with a **dynamic firing algorithm** where the next shot that you take can depend entirely on the state of the board.
+### Dynamic firing algorithms
+
+In comparison with static firing algorithms, we can also consider a **dynamic firing algorithm** where the next shot that you take can depend on the current state of the board.  In other words, dynamic firing algorithms leverage what we already know about our hits and misses from shots already taken.  Dynamic firing algorithms are more complicated to describe, but they often perform better than static ones.
+
+
+### Testing static algorithms
+
+Programming dynamic firing algorithms can vary widely and may require in-depth programming.  Static algorithms on the other hand are easy to test and can be used as a point of inspiration in developing dynamic ones.
 
 The simulator below allows you to test the performance of a static firing algorithm.  
 * Click the squares in the first box in the firing order that you wish to specify.
