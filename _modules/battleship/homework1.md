@@ -21,6 +21,6 @@ Consider, now, a full-sized 10x10 board.
 * (C) How many different ways are there to place both a 2x1 and a 3x1 ship on a 10x10 board, following the rules of Battleship ship placement?
 
 ### Problem 3
-How many ways are there to place a 2x1 ship and a 4x1 ship on a 10x10 board?
+How many ways are there to place a 2x1 ship and a 4x1 ship on a 10x10 board following the rules of Battleship?
 
 Your responses should be 1-2 pages, scanned and uploaded as a pdf file.  One submission per group. 
