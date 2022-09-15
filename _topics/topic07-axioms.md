@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Topic 06 -- Axiomatic Systems
+title: Topic 07 -- Set Theory
 ---
 
-* [Introduction (link)](/math180fall2022/modules/axioms/introduction)
+* [Introduction (link)](/math180fall2022/modules/set-theory/introduction)
 
 
