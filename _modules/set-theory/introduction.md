@@ -24,7 +24,7 @@ $$C_1 = \{\varnothing\}$$
 
 * Now we have two different things: $$\varnothing$$, and $$C_1$$ so we can put them into a new collection
 
-$$C__2 = \{\varnothing,C_1\} = \{\varnothing,\{\varnothing\}\}$$
+$$C_2 = \{\varnothing,C_1\} = \{\varnothing,\{\varnothing\}\}$$
 
 
 * Now we have three different things: so we can put them into a new collection 
