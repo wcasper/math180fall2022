@@ -53,9 +53,9 @@ In other words:
 * A play yer must call SET before picking up the cards. There are no turns, the first player to call SET gets control of the board.
 * After he/she has called SET, no other player can pick up cards until that player has finished.
 * The SET must be picked up within a few seconds after calling it. If a player calls SET and does s not have one, or if the SET is incorrrect, he/she loses one point, and the 3 cards are returned to the table.
-* If all players agree tha at there is not a SET in the 12 cards, 3 more cards are laid face up on the t table. The 3 cards are not replaced when the next SET is found, reducing the nummber back to 12.
+* If all players agree tha at there is not a SET in the 12 cards, 3 more cards are laid face up on the table. The 3 cards are not replaced when the next SET is found, reducing the nummber back to 12.
 
-**Note:** There are ~ 33:1 odds that a SET is s present in 1 12  cards, and ~ 2500:1 odds when 15 cards are on the table.
+**Note:** There are ~ 33:1 odds that a SET is present in 12  cards, and ~ 2500:1 odds when 15 cards are on the table.  It is **extremely** unlikely and if you can't find one, you should keep searching.
 
 * The play continues until the deck is depleted. At the end of the game there may be cards remaining that do not form a SET. The number of SETs held by each player is then counted.  One point is given for each SET. High score wins.
 
