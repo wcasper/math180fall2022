@@ -25,13 +25,13 @@ In other words:
 
 <div class="row">
   <div class="column">
-    <img src="fig/card-rth1.gif" alt="red triangle striped single" style="width:100%">
+    <img src="fig/card-rth1.gif" alt="red triangle striped single" style="width:20%">
   </div>
   <div class="column">
-    <img src="fig/card-goe1.gif" alt="green oval empty single" style="width:100%">
+    <img src="fig/card-goe1.gif" alt="green oval empty single" style="width:20%">
   </div>
   <div class="column">
-    <img src="fig/card-psf1.gif" alt="purple squiggle filled single" style="width:100%">
+    <img src="fig/card-psf1.gif" alt="purple squiggle filled single" style="width:20%">
   </div>
 </div>
 
