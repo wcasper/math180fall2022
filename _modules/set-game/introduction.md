@@ -22,6 +22,9 @@ In other words:
 * etc.  See the examples below.
 
 **Example 1:**
+    <img src="fig/card-rth1.gif" alt="red triangle striped single" style="width:20%">
+    <img src="fig/card-rth1.gif" alt="red triangle striped single" style="width:20%">
+    <img src="fig/card-rth1.gif" alt="red triangle striped single" style="width:20%">
 
 <div class="row">
   <div class="column">
