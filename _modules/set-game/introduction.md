@@ -39,3 +39,17 @@ In other words:
     <img src="fig/card-gth2.gif" alt="green triangle striped double" style="width:20%">
     <img src="fig/card-psf1.gif" alt="purple squiggle filled single" style="width:20%">
 
+
+## How to play SET
+
+* The dealer shuff fles the cards and lays 12 face up on the table (in a rectangle) so that they can be seen by all.
+* Players remove SETs of 3 cards from anywhere on the table. Each SET is checked by the other players. If correct, the SET is kept t by the player for one point and the dealer replaces the 3 cards with 3 from the deck.
+* A play yer must call SET before picking up the cards. There are no turns, the first player to call SET gets control of the board.
+* After he/she has called SET, no other player can pick up cards until that player has finished.
+* The SET must be picked up within a few seconds after calling it. If a player calls SET and does s not have one, or if the SET is incorrrect, he/she loses one point, and the 3 cards are returned to the table.
+* If all players agree tha at there is not a SET in the 12 cards, 3 more cards are laid face up on the t table. The 3 cards are not replaced when the next SET is found, reducing the nummber back to 12.
+
+**Note:** There are ~ 33:1 odds that a SET is s present in 1 12  cards, and ~ 2500:1 odds when 15 cards are on the table.
+
+* The play continues until the deck is depleted. At the end of the game there may be cards remaining that do not form a SET. The number of SETs held by each player is then counted.  One point is given for each SET. High score wins.
+
