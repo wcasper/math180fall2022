@@ -33,7 +33,7 @@ Find all the possible SETs in the above collection.
 
 **Question 2:**
 
-* (A) How many cards are in a full SET deck?  How can you figure this out without actually counting the cards in the deck?
+* (A) How many cards are in a full SET deck?  How can you figure this out without actually counting the cards in the deck (or reading the box)?
 * (B) If you put all of the cards from the deck on the table at the same time, how many different SETs will there be?
 
 **Question 3:**
