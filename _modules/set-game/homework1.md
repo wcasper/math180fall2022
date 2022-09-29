@@ -9,13 +9,19 @@ Scan your solutions and upload them as a **single** pdf file.
 
 **Question 1:**
 
-Show that given any two cards in the game SET, there is a third card such that the combination of three cards is a SET.  Explain why the third card is *unique*.
+Given a single set card, how many distinct SETs in the game have that as one of the cards in the SET?
 
 **Question 2:**
 
-Given a single set card, how many distinct SETs in the game have that as one of the cards in the SET?
+Suppose we only have set cards which are green and whose shapes are ovals.
+What is the smallest number of set cards we must have flipped up on the table to guarantee that there is at least one SET?
 
 **Question 3:**
 
+Suppose we only have set cards which are green.
 What is the smallest number of set cards we must have flipped up on the table to guarantee that there is at least one SET?
 
+**Question 4:**
+
+Now suppose we are working with the *full* deck of set cards.
+What is the smallest number of set cards we must have flipped up on the table to guarantee that there is at least one SET?
