@@ -16,6 +16,4 @@ permalink: /modules/microrobots/introduction
 ## Intermediate Gameplay
 If you want a bit more of a challenge, you can also roll the dice to determine a ``pit stop" that the robot must pass through on its way from the starting position to the goal position.   This tends to make the number of moves required a bit higher and the game that much more competitive.  
 
-## How to Play Online
-* [Video tutorial for playing online](https://www.youtube.com/watch?v=g9jXe6CSEkU)
 
