@@ -15,7 +15,7 @@ Using the Micro Robots board shown below, we constructed the associated graph.
 
 1. What do the vertices of the graph correspond to?
 2. What about the edges?
-3. 3. 3. The graph is connected, so what does that tell us?
+3. The graph is connected, so what does that tell us?
 4. If I wanted to make a round of the game as hard as possible, what squares would I choose for the robot's starting point and the robots goal?  Explain why your choice is the hardest.
 5. For the squares you indicated in your previous answer, what is the minimum number of moves required by the robot?
 
