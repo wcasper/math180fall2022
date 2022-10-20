@@ -8,7 +8,7 @@ A full Micro Robots board consists of four 3x3 cards which, when put together in
 
 ## Problem 1
 
-Using the Micro Robots board shown below, we constructed the associated graph.
+Using the Micro Robots board shown below, we constructed the associated graph.  [Caution: the layout below is misleading, as the red and gray six are connected, but neither is actually connected to the gray 2].
 
 <p align="center"><img src="fig/homework-board.png" width="50%"/></p>
 <p align="center"><img src="fig/homework-graph.png" width="50%"/></p>
