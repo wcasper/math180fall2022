@@ -45,7 +45,7 @@ You may also choose your own research question, though you are required to get a
 
 10. Given a chessboard, is it possible for a knight to travel to every space on the board, without repeating a space?  If so, how many ways can the knight do so?  What about other chess boards of non-standard size?
 
-11. How many ways are there to cover a $$4$$ ft by $$6$$ patio with $$$2$$ ft by $$1$$ ft bricks?  What about patios of different sizes?
+11. * How many ways are there to cover a $$4$$ ft by $$6$$ patio with $$2$$ ft by $$1$$ ft bricks?  What about patios of different sizes?
 
 12. Which rational numbers of the form $$a/b$$ with $$a$$ and $$b$$ both three digits or less most closely approximate $$\pi$$?  Can we do better with four digits?
 
