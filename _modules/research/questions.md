@@ -39,7 +39,7 @@ You may also choose your own research question, though you are required to get a
 
 7. What Micro Robots boards have graphs with as few edges as possible?
 
-8. What is the winning strategy when playing *Chomp* with a $$4\times 5$$ grid?  What about grids of other sizes?
+8. * What is the winning strategy when playing *Chomp* with a $$4\times 5$$ grid?  What about grids of other sizes?
 
 9. Given two positions on a chessboard, what is the smallest number of moves it would take a knight to move from one space to the other?
 
