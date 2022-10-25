@@ -33,9 +33,9 @@ You may also choose your own research question, though you are required to get a
 
 4. Suppose we modify the game SET, so that each card has $$5$$ properties with three possible values and the deck size is $$243$$ cards.  Now what is the largest collection of SET cards with no set?
 
-5. The standard Micro Robots boards have the property that no matter how you put them down (same side up), the corresponding graph is connected.  How many other Micro Robots boards can be designed with this property?
+5. * The standard Micro Robots boards have the property that no matter how you put them down (same side up), the corresponding graph is connected.  How many other Micro Robots boards can be designed with this property?
 
-6. What is the probability that the graph of a randomly created Micro Robots board is connected?
+6. * What is the probability that the graph of a randomly created Micro Robots board is connected?
 
 7. What Micro Robots boards have graphs with as few edges as possible?
 
@@ -62,4 +62,5 @@ You may also choose your own research question, though you are required to get a
 18. A magic square is an $$n\times n$$ square of integers where each row, each column, and each diagonal all sum to the same number, called the "magic number" of the square.
 Is there a $$n\times n\times n$$ three-dimensional version of a magic square, where each row, column, pillar, cross-section diagonal, and spatial diagonal all sum to the same number?  Are there any constraints on $$n$$?
 
+19. * In Mindsweeper, where can the bombs be in order for the game to be solvable after the first move, without every having to guess.
 
