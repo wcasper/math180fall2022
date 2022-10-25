@@ -27,7 +27,7 @@ You may also choose your own research question, though you are required to get a
 
 1. How many possible ways are there to place the entire fleet in a standard game of Battleship?
 
-2. What is the most efficient *static* firing algorithm for sinking randomly generated Battleship fleets?
+2. * What is the most efficient *static* firing algorithm for sinking randomly generated Battleship fleets?
 
 3. How many collections of $$20$$ SET cards don't have a set in them?  What are they?
 
@@ -55,9 +55,9 @@ You may also choose your own research question, though you are required to get a
 
 15. If $$p$$ is a prime number, then the decimal expansion of $$1/p$$ will repeat periodically.  How many decimals does it take for the pattern to repeat.  Does the decimal expansion of every rational number repeat?
 
-16. Suppose you have a graph with $$10$$ vertices.  How many edges can the graph have before the graph has to have a triangle?
+16. * Suppose you have a graph with $$10$$ vertices.  How many edges can the graph have before the graph has to have a triangle?
 
-17. In Sudoku, how many clues do you need in order to guarantee that the Sudoku puzzle has a unique solution?
+17. * In Sudoku, how many clues do you need in order to guarantee that the Sudoku puzzle has a unique solution?
 
 18. A magic square is an $$n\times n$$ square of integers where each row, each column, and each diagonal all sum to the same number, called the "magic number" of the square.
 Is there a $$n\times n\times n$$ three-dimensional version of a magic square, where each row, column, pillar, cross-section diagonal, and spatial diagonal all sum to the same number?  Are there any constraints on $$n$$?
