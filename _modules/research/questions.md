@@ -53,7 +53,7 @@ You may also choose your own research question, though you are required to get a
 
 14. What types of graphs can be drawn on paper without any overlaps of the edges?  What about drawing them on the surface of a ball?
 
-15. If $$p$$ is a prime number, then the decimal expansion of $$1/p$$ will repeat periodically.  How many decimals does it take for the pattern to repeat.  Does the decimal expansion of every rational number repeat?
+15. * If $$p$$ is a prime number, then the decimal expansion of $$1/p$$ will repeat periodically.  How many decimals does it take for the pattern to repeat.  Does the decimal expansion of every rational number repeat?
 
 16. * Suppose you have a graph with $$10$$ vertices.  How many edges can the graph have before the graph has to have a triangle?
 
