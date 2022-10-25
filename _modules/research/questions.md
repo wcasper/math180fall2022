@@ -62,5 +62,7 @@ You may also choose your own research question, though you are required to get a
 18. A magic square is an $$n\times n$$ square of integers where each row, each column, and each diagonal all sum to the same number, called the "magic number" of the square.
 Is there a $$n\times n\times n$$ three-dimensional version of a magic square, where each row, column, pillar, cross-section diagonal, and spatial diagonal all sum to the same number?  Are there any constraints on $$n$$?
 
-19. * In Mindsweeper, where can the bombs be in order for the game to be solvable after the first move, without every having to guess.
+19. * In Mindsweeper, where can the bombs be in order for the game to be solvable after the first move, without every having to guess?
+
+20. What is the largest possible diameter you can get from a connected graph made from a Micro Robots board?
 
