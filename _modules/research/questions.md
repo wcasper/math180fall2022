@@ -27,25 +27,25 @@ You may also choose your own research question, though you are required to get a
 
 1. How many possible ways are there to place the entire fleet in a standard game of Battleship?
 
-2. * What is the most efficient *static* firing algorithm for sinking randomly generated Battleship fleets?
+2. What is the most efficient *static* firing algorithm for sinking randomly generated Battleship fleets?
 
 3. How many collections of $$20$$ SET cards don't have a set in them?  What are they?
 
 4. Suppose we modify the game SET, so that each card has $$5$$ properties with three possible values and the deck size is $$243$$ cards.  Now what is the largest collection of SET cards with no set?
 
-5. * The standard Micro Robots boards have the property that no matter how you put them down (same side up), the corresponding graph is connected.  How many other Micro Robots boards can be designed with this property?
+5. The standard Micro Robots boards have the property that no matter how you put them down (same side up), the corresponding graph is connected.  How many other Micro Robots boards can be designed with this property?
 
-6. * What is the probability that the graph of a randomly created Micro Robots board is connected?
+6. What is the probability that the graph of a randomly created Micro Robots board is connected?
 
 7. What Micro Robots boards have graphs with as few edges as possible?
 
-8. * What is the winning strategy when playing *Chomp* with a $$4\times 5$$ grid?  What about grids of other sizes?
+8. What is the winning strategy when playing *Chomp* with a $$4\times 5$$ grid?  What about grids of other sizes?
 
 9. Given two positions on a chessboard, what is the smallest number of moves it would take a knight to move from one space to the other?
 
 10. Given a chessboard, is it possible for a knight to travel to every space on the board, without repeating a space?  If so, how many ways can the knight do so?  What about other chess boards of non-standard size?
 
-11. * How many ways are there to cover a $$4$$ ft by $$6$$ patio with $$2$$ ft by $$1$$ ft bricks?  What about patios of different sizes?
+11. How many ways are there to cover a $$4$$ ft by $$6$$ patio with $$2$$ ft by $$1$$ ft bricks?  What about patios of different sizes?
 
 12. Which rational numbers of the form $$a/b$$ with $$a$$ and $$b$$ both three digits or less most closely approximate $$\pi$$?  Can we do better with four digits?
 
@@ -53,16 +53,16 @@ You may also choose your own research question, though you are required to get a
 
 14. What types of graphs can be drawn on paper without any overlaps of the edges?  What about drawing them on the surface of a ball?
 
-15. * If $$p$$ is a prime number, then the decimal expansion of $$1/p$$ will repeat periodically.  How many decimals does it take for the pattern to repeat.  Does the decimal expansion of every rational number repeat?
+15. If $$p$$ is a prime number, then the decimal expansion of $$1/p$$ will repeat periodically.  How many decimals does it take for the pattern to repeat.  Does the decimal expansion of every rational number repeat?
 
-16. * Suppose you have a graph with $$10$$ vertices.  How many edges can the graph have before the graph has to have a triangle?
+16. Suppose you have a graph with $$10$$ vertices.  How many edges can the graph have before the graph has to have a triangle?
 
-17. * In Sudoku, how many clues do you need in order to guarantee that the Sudoku puzzle has a unique solution?
+17. In Sudoku, how many clues do you need in order to guarantee that the Sudoku puzzle has a unique solution?
 
 18. A magic square is an $$n\times n$$ square of integers where each row, each column, and each diagonal all sum to the same number, called the "magic number" of the square.
 Is there a $$n\times n\times n$$ three-dimensional version of a magic square, where each row, column, pillar, cross-section diagonal, and spatial diagonal all sum to the same number?  Are there any constraints on $$n$$?
 
-19. * In Mindsweeper, where can the bombs be in order for the game to be solvable after the first move, without every having to guess?
+19. In Mindsweeper, where can the bombs be in order for the game to be solvable after the first move, without every having to guess?
 
 20. What is the largest possible diameter you can get from a connected graph made from a Micro Robots board?
 
