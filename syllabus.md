@@ -11,7 +11,7 @@ permalink: /syllabus
 
 **Email:** wcasper@fullerton.edu
 
-**Office hourse:** To be announced.  Additional office hours are always available by request.
+**Office hourse:** 3-4 PM M,T,W.  Additional office hours are always available by request.
 
 **Course website:** we will use Canvas website (Fall MATH 180-01 20140), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math180fall2022">Github Pages site (link)</a> which you may find more convenient for pulling material.
 
