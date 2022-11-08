@@ -24,6 +24,6 @@ Your report will be graded based on the following criteria.
 * Readability (1-4): was the paper well-written?  Were there lots of spelling or grammar mistakes?  Was it well-formatted, or are things just thrown in willy-nilly?
 * Mathematical accuracy (1-4):  does the math, computation, or code check out.  Are there mistakes?
 * Depth (1-4): did we dive into and explore the problem in detail.  Is there obvious effort or is it clear that there is only a superficial investigation.
-* Completeness: are the required sections in the report?  Is the content of each section what it should be, or is it lacking or missing entirely?
+* Completeness (1-4): are the required sections in the report?  Is the content of each section what it should be, or is it lacking or missing entirely?
 
 
