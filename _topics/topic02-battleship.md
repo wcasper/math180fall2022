@@ -9,5 +9,6 @@ title: Topic 02 -- Battleship
 * [Battleship Example Strategies (link)](/math180fall2022/modules/battleship/old-strategies)
 * [Battleship and Combinatorics (link)](/math180fall2022/modules/battleship/combinatorics)
 * [Battleship Simulator (link)](/math180fall2022/modules/battleship/battleship-simulator)
+* [Battleship Commander Competition Results (link)](/math180fall2022/modules/battleship/results)
 
 
