@@ -4,7 +4,7 @@ title: Battleship Commander Competition Results
 permalink: /modules/battleship/results
 ---
 
-<p align="center"><img src="fig/battleship-battle.jpg" width="50%"/></p>
+<p align="center"><img src="fig/battleship_battle.jpg" width="50%"/></p>
 
 The results of the Battleship Commander Competition are in!  Your mathematical prowess, strategic skill, and clever commanding has led to this moment.  Each algorithm was tested against $$10,000$$ randomly generated Battleship fleets.  I am very pleased to say that all of the algorithms that you came up with compared very favorably in comparison to a completely random algorithm, which on average takes approximately $$59.82$$ shots per Battleship fleet.  A summary of the results are below.  Note: if your team is not listed, it was disqualified for not having a sufficiently explicit algorithm.
 
