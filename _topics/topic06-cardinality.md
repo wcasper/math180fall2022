@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Topic 05 -- Cardinality
+title: Topic 06 -- Cardinality
 ---
 
 * [Introduction (link)](/math180fall2022/modules/cardinality/introduction)
