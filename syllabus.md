@@ -134,7 +134,10 @@ ___
 
 ## Exams
 **Final Exam**
-The final exam will be cumulative with both written and computational parts, and will account for 20\% of your grade.
+The final exam will be cumulative with both written and computational parts, and will account for 20% of your grade.
+
+* If your section is 10-12 on T/Th, then your Final Exam time is **9-11AM** on **Tuesday, December 13**
+* If your section is 12-2  on T/Th, then your Final Exam time is **1-3PM** on **Tuesday, December 13**
 
 ___
 
