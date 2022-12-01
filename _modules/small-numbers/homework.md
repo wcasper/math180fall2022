@@ -73,7 +73,7 @@ Continue to check the pattern for $$10$$, $$11$$ and $$12$$ logs.  Does it still
 
 <p align="center"><img src="fig/canonballs.jpg" width="50%"/></p>
 
-A friend recently took a trip to MusÃ©e historique de Strasbourg (Links to an external site.), where they took the following picture of a cannonball pyramid.  He heard a rumor that French artillery in the Middle Ages were able to tell then number of cannonballs in a pyramid just based on the height!  I went to visit him one day and he had dozens of papers with equations scrawled all over them. He said that he got a blast of divine insight, and found a mathematical formula for the number of balls in a stack which in n balls high:
+A friend recently took a trip to Muse historique de Strasbourg (Links to an external site.), where they took the following picture of a cannonball pyramid.  He heard a rumor that French artillery in the Middle Ages were able to tell then number of cannonballs in a pyramid just based on the height!  I went to visit him one day and he had dozens of papers with equations scrawled all over them. He said that he got a blast of divine insight, and found a mathematical formula for the number of balls in a stack which in n balls high:
 
 $$1^2 + 2^2 + 3^2 + (n-1)^2 + n^2 = \frac{n(n+1)(2n+1)}{6}$$
 
