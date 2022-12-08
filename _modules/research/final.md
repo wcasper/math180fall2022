@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Report Draft 2
+title: Research Report Final Draft
 permalink: /modules/research/final
 ---
 
