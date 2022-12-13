@@ -11,7 +11,7 @@ TRUE, by definition!
 * The empty set is an element of every set
 FALSE, though it is true sometimes!
 * There is a surjective map from the set of the standard $$52$$ playing cards to the set of U.S. states
-FALSE, for there to be a surjection the domain must have cardinality greater than or equal to the codomain.
+TRUE, for there to be a surjection the domain must have cardinality greater than or equal to the codomain.
 * There is a surjective map from the set of the standard $$52$$ playing cards to the set of integers $$1,2,\dots,13$$
 TRUE, since the cardinality of the domain is larger than the cardinality of the codomain.  One example is the function sending every card to its face value (A=1,J=11,Q=12,K=13)
 * We use axiomatic set theory to get around problems with paradoxes introduced by naive set theory, such as Russel's paradox
